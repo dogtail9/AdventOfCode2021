@@ -1,4 +1,4 @@
-﻿// Read all values from the file and stor them in a string array
+﻿// Read all values from the file and store them in a string array
 var lines = File.ReadAllLines("Input.txt");
 
 // Don't count the first value, it will be less than int.MaxValue
